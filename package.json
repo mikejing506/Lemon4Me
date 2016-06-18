@@ -1,0 +1,19 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikejing506/Lemon4Me.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikejing506/Lemon4Me/issues"
+  },
+  "homepage": "https://github.com/mikejing506/Lemon4Me#readme"
+}
