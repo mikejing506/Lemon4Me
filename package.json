@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikejing506/Lemon4Me/issues"
   },
-  "homepage": "https://github.com/mikejing506/Lemon4Me#readme"
+  "homepage": "https://github.com/mikejing506/Lemon4Me#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
