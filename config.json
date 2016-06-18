@@ -5,29 +5,72 @@
 	"EncodingAESKey":"",
 	"menu": {
      "button":[
-     {
-          "type":"click",
-          "name":"今日歌曲",
-          "key":"V1001_TODAY_MUSIC"
-      },
       {
-           "name":"菜单",
+           "name":"客户中心",
            "sub_button":[
            {
                "type":"view",
-               "name":"搜索",
+               "name":"公司简介",
                "url":"http://www.soso.com/"
             },
             {
                "type":"view",
-               "name":"视频",
+               "name":"联系我们",
                "url":"http://v.qq.com/"
             },
             {
-               "type":"click",
-               "name":"赞一下我们",
-               "key":"V1001_GOOD"
+               "type":"view",
+               "name":"发货跟踪",
+               "url":"http://v.qq.com/"
+            },{
+            	"type":"view",
+            	"name":"选型指南",
+            	"url":"http://www.baidu.com"
             }]
-       }]
+       },
+       {
+           "name":"真空服务",
+           "sub_button":[
+           {
+               "type":"view",
+               "name":"真空代理",
+               "url":"http://www.soso.com/"
+            },
+            {
+               "type":"view",
+               "name":"真空维修",
+               "url":"http://v.qq.com/"
+            },
+            {
+               "type":"view",
+               "name":"二手设备",
+               "url":"http://v.qq.com/"
+            },
+            {
+               "type":"view",
+               "name":"设备租赁",
+               "url":"http://v.qq.com/"
+            },
+            {
+               "type":"view",
+               "name":"真空系统设计",
+               "url":"http://v.qq.com/"
+            }]
+       },
+       {
+           "name":"员工中心",
+           "sub_button":[
+           {
+               "type":"view",
+               "name":"事业单元",
+               "url":"http://www.soso.com/"
+            },
+            {
+               "type":"view",
+               "name":"我",
+               "url":"http://v.qq.com/"
+            }]
+       }
+   ]
  }
 }
