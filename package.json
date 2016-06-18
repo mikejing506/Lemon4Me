@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mikejing506/Lemon4Me#readme",
   "dependencies": {
+    "crypto": "0.0.3",
     "express": "^4.14.0"
   }
 }
