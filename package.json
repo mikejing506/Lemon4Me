@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/mikejing506/Lemon4Me#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "crypto": "0.0.3",
+    "ejs": "^2.4.2",
     "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "node-mysql": "^0.4.2",
     "node-schedule": "^1.1.0",
     "superagent": "^2.0.0",
     "wechat-api": "^1.28.0"

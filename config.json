@@ -3,6 +3,12 @@
 	"appsecret":"4daee3aefde783cde136231ea305e613",
 	"token":"1234567890",
 	"EncodingAESKey":"",
+  "database":{
+    "host":"localhost",
+    "user":"root",
+    "password":"root",
+    "database":"wechat"
+  },
 	"menu": {
      "button":[
       {

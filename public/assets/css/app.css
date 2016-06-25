@@ -1,0 +1,14 @@
+/* Write your styles */
+.am-navbar-wechat{
+	background: #FFF;
+}
+
+.am-navbar-wechat .active{
+	color:#F00;
+	border-width:0.3rem 0rem 0rem 0rem;
+	border-style: solid;
+}
+
+.am-navbar-wechat .active a{
+	color:#F00;
+}
